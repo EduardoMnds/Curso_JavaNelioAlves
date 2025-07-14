@@ -1,3 +1,5 @@
+package AccountExample;
+
 public class BusinessAccount extends Account {
 
     private Double loanLimit;

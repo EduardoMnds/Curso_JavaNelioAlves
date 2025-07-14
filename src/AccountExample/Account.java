@@ -1,3 +1,5 @@
+package AccountExample;
+
 public class Account {
 
     private Integer number;

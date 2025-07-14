@@ -1,5 +1,6 @@
+package AccountExample;
+
 import java.util.Locale;
-import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -32,7 +33,7 @@ public class Main {
 
         // DOWNCASTING
         BusinessAccount acc4 = (BusinessAccount) acc2;
-        //BusinessAccount acc5 = (BusinessAccount) acc3;
+        //AccountExample.BusinessAccount acc5 = (AccountExample.BusinessAccount) acc3;
 
 
         if (acc3 instanceof BusinessAccount) {
